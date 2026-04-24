@@ -1,18 +1,5 @@
 #      Fruit Inventory shop
 
-##import matplotlib.pyplot as p
-##
-##
-##name_x = ['kevin','max','pradeep','sravani']
-##salary_y = [2060,1278,5006,4500]
-##
-##p.plot(name_x,salary_y)
-### Loop through each point and add the text label
-##for i in range(len(name_x)):
-##    p.text(i, salary_y[i] + 150, salary_y[i], ha='center', va='bottom')
-##    
-##p.show()
-
 #Innitial list of Fruits  with quantity , CP , SP
 
 data = [
